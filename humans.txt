@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dirk Lombard dirk.lombard@standardbank.co.za
 
 # THANKS
 
