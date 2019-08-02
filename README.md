@@ -8,3 +8,4 @@ Sample website with plenty of files for demos to continue
 
 ## Deployment
 This is the deployment section
+###Copyright Notice
