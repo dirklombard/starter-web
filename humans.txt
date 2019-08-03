@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+   Thanks to all my students for using git 
 
 # TECHNOLOGY COLOPHON
 
