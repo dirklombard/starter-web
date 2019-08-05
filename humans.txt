@@ -7,7 +7,7 @@
 
 # THANKS
 
-   Thanks to all my students for using git Please comments after course.
+   Thanks to all my students for using giT.
 
 # TECHNOLOGY COLOPHON
 
