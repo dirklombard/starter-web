@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work that is correct. Add addi
 
 ## Purpose
 
-Sample website with plenty of files for demos to continue. Added some text to master README file for rebase example. Adding more text to README file but this time from myfeature branch.
+Sample website with plenty of files for demos to continue. Added some text to master README file for rebase example. Adding more text to README file but this time from myfeature branch.Update this line.
 
 ## Deployment
 This is the deployment section
